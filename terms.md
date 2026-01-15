@@ -11,5 +11,4 @@ Data is used solely for analytics, visualization, and educational purposes.
 By using this application, you agree to the applicable terms of the respective
 platform APIs (e.g., TikTok, YouTube).
 
-Contact:
-Email: johnymariah@gmail.com/nailophiliacc@gmail.com
+
