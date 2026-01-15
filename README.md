@@ -1,7 +1,7 @@
 # Social Media Analytics
 
 
-An end-to-end analytics project in Databricks analyzing my own public social media accounts (YouTube, Instagram, TikTok) to explore trends, build dashboards, and leverage AI for insights.
+This is an ongoing end-to-end analytics project in Databricks analyzing my own public social media accounts (YouTube, Instagram, TikTok) to explore trends, build dashboards, and leverage AI for insights.
 
 ## 🚀 Project Overview
 
@@ -29,6 +29,6 @@ Platform: Databricks, Delta Lake, Spark
 
 Data Sources: My public YouTube, Instagram, and TikTok accounts via official APIs
 
-Analysis & Visualization: Python, Pandas, SQL, Plotly, Streamlit, Tableau/Power BI
+Analysis & Visualization: Python, Pandas, SQL, Plotly, Streamlit, Tableau/Power BI , Databricks
 
 AI Analytics: Large language models / AI agents for automated insights
